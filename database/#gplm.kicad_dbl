@@ -471,12 +471,17 @@
                     "show_name": false
                 },
                 {
-                    "column": "Datasheet",
-                    "name": "Datasheet",
+                    "column": "Comments",
+                    "name": "Comments",
                     "visible_on_add": false,
                     "visible_in_chooser": false,
                     "show_name": false
                 }
+        ],
+        "attributes":[
+        {
+        "exclude_from_bom":true
+        }
         ]
         },
         {
